@@ -1,0 +1,28 @@
+
+O projeto Next.js "confeitaria" foi criado com sucesso!
+
+Aqui está a estrutura do projeto:
+confeitaria/
+├── .next/
+├── app/
+├── node_modules/
+├── public/
+├── .gitignore
+├── eslint.config.mjs
+├── next-env.d.ts
+├── next.config.ts
+├── package-lock.json
+├── package.json
+├── postcss.config.mjs
+├── README.md
+└── tsconfig.json
+
+Para executar o projeto, siga estes passos:
+
+1. Navegue até o diretório do projeto:
+   cd confeitaria
+
+2. Inicie o servidor de desenvolvimento:
+   npm run dev
+
+Isso iniciará o aplicativo Next.js em modo de desenvolvimento. Você pode acessá-lo em seu navegador, geralmente em `http://localhost:3000`.
